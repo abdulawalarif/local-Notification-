@@ -1,16 +1,7 @@
-# notes_app_local
+Flutter App Using Sqlite & Sqflite With Local Scheduled Notifications | GetX
 
-A new Flutter project.
+ Local push notifications, date format using showTimePicker and showDatePicker. 
 
-## Getting Started
+scheduled notifications. Scheduled notification requires flutter native time zone.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I list for saving record and read them through flutter getx listview.
