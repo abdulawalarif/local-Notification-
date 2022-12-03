@@ -10,8 +10,8 @@ const Color darkHeaderClr = Color(0xFF42424);
 
 class Themes {
   static final light = ThemeData(
-    primarySwatch: Colors.blue,
-    // primaryColor: primaryClr,
+    primarySwatch: Colors.deepPurple,
+    // primaryColor: Colors.blueGrey,
     brightness: Brightness.light,
   );
   static final dark = ThemeData(
